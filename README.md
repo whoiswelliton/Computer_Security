@@ -8,7 +8,7 @@
 - **Security Policies**
 - **Vulnerability**
 - **Cryptography**
-    - DES, AES, RSA, ECC, ECC-Based Hybrid and more.
+    - DES, AES, RSA, ECC, ECC-Based Hybrid Encryption and more.
 - **Digital Signature Algorithm (DSA)**
 - **Secure Hash Algorithms (SHA-Family)**
 - **Authentication**
