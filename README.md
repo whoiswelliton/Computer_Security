@@ -17,7 +17,7 @@
 - **Firewall**
 - **Threats and Countermeasures**
 ---
->### 3. Projects
+>### 3. Projects and Implementations:
 - **DES Encryption**
 - **AES Encryption**
 - **RSA Encryption**
